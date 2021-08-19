@@ -66,7 +66,7 @@ while True:
     text = "Interfacing OLED"
     oled.fill(0)
     
-    #Animating Text And Image Horizontaly
+    #Scrolling Text And Image Horizontaly
     for x in range(0,WIDTH-image_width):
         displayImage(image_byte_arr,(image_width,image_height),(x,y),clear_oled=False)
         displayText(text,(x,y+40),clear_oled=False,show_text=True)
@@ -76,6 +76,8 @@ while True:
         else:
             x+=2
             oled.fill(0)
+            
+    #Reverse Scrolling Text And Image Horizontaly
     for x in range(WIDTH-image_width,-1,-1):
         displayImage(image_byte_arr,(image_width,image_height),(x,y),clear_oled=True)
         displayText(text,(x,y+40),clear_oled=False,show_text=True)
