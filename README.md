@@ -19,6 +19,6 @@ Hello everyone, this repository contains the complete tutorial series on the Ras
 
 **The Raspberry Pi Pico Tutorial Series by Circuit Digest**
     
-   ✅Tutorial 3:[Interfacing an OLED display with the Raspberry Pi Pico Using Micropython](https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/tree/main/T3_Interfacing_An_OLED)
+   ✅Tutorial 2:[Interfacing an OLED display with the Raspberry Pi Pico Using Micropython](https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/tree/main/T2_Interfacing_An_OLED)
    <br>
 
