@@ -11,4 +11,4 @@ Hey everyone, In this tutorial we are going to interface an [OLED display module
 **Circuit Diagram to Interface SSD1306 OLED Display with Raspberry Pi Pico**
 <br>
 <br>
-<img src="https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/blob/main/T2_Interfacing_An_OLED/images/Image_T2_Interfacing_An_OLED.png" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/blob/main/T2_Interfacing_An_OLED/images/circuitDiagram.png" alt="alt_text" title="image_tooltip">
