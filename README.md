@@ -1,4 +1,4 @@
-# Raspberry_Pi_Pico_Tutorial
+# Raspberry Pi Pico Tutorial
 
 <img src="https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/blob/main/IMAGES/coverimage.jpg" alt="alt_text" title="image_tooltip">
 <a href="https://circuitdigest.com/tags/raspberry-pi-pico"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=RASPBERRY PI PICO TUTORIALS CIRCUIT DIGEST&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
@@ -8,10 +8,8 @@ Hello everyone, this repository contains the complete tutorial series on the Ras
 
 [ <b>Note:</b> Let's see the folder structure of this repo. Every tutorials has three folders. (i.e. <b>images</b>,<b>schematics</b>,<b>codes</b>) ]
 
+# Pin Description of the Raspberry Pi Pico
 
-  **Pin Description of the Raspberry Pi Pico
-
-<br></br>
 <img src="https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/blob/main/IMAGES/PinDescription.png" alt="alt_text" title="image_tooltip">
 
 
