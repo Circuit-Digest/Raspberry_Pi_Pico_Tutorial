@@ -10,11 +10,13 @@ Hello everyone, this repository contains the complete tutorial series on the Ras
 [ <b>Note:</b> Let's see the folder structure of this repo. Every tutorials has three folders. (i.e. <b>images</b>,<b>schematics</b>,<b>codes</b>) ]
 <br>
 <br>
+
 **Pin Description of the Raspberry Pi Pico**
 
 <img src="https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/blob/main/IMAGES/PinDescription.png" alt="alt_text" title="image_tooltip">
 <br>
 <br>
+
 **The Raspberry Pi Pico Tutorial Series by Circuit Digest**
     
    ✅Tutorial 3:[Interfacing an OLED display with the Raspberry Pi Pico Using Micropython](https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/tree/main/T3_Interfacing_An_OLED)
