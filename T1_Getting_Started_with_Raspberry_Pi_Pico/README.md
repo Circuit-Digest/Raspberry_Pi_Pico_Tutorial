@@ -5,7 +5,7 @@
 <a href="https://circuitdigest.com/microcontroller-projects/getting-started-with-raspberry-pi-pico-with-micropython"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=GETTING STARTED WITH THE RASPBERRY PI PICO CIRCUIT DIGEST&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
 <br>
 
-[Click here](https://circuitdigest.com/microcontroller-projects/getting-started-with-raspberry-pi-pico-with-micropython) for complete tutorial.
+[<h1>Click here](https://circuitdigest.com/microcontroller-projects/getting-started-with-raspberry-pi-pico-with-micropython) for complete tutorial.</h1>
 
 <br>
 <br>
