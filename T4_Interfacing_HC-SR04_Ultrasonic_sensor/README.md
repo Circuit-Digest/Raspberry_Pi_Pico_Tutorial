@@ -1,6 +1,6 @@
 # Interface an Ultrasonic Sensor with the Raspberry Pi Pico – Displaying the distance on OLED display Using MicroPython
 
-<img src="https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/blob/main/T3_Interfacing_HC-SR04_Ultrasonic_sensor/images/T4_Interface_Ultrasonic_HC-SR04_with_pico.jpg" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/blob/main/T4_Interfacing_HC-SR04_Ultrasonic_sensor/images/T4_Interface_Ultrasonic_HC-SR04_with_pico.jpg" alt="alt_text" title="image_tooltip">
 
 <br>
 <br>
