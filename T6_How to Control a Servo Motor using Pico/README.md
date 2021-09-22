@@ -1,4 +1,5 @@
-# Interface an LCD with the Raspberry Pi Pico using Micropython
+# How to Control a Servo Motor with Raspberry Pi Pico using MicroPython
+
 
 
 
