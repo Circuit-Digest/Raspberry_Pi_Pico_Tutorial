@@ -1,4 +1,4 @@
-import machine
+from machine import Pin
 import utime
 import _thread
 
