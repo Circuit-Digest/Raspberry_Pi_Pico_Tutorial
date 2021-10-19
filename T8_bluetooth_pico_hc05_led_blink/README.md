@@ -4,7 +4,7 @@
 
 
 <br>
-<a href="https://circuitdigest.com/microcontroller-projects/how-to-use-bluetooth-on-raspberry-pi-pico-and-control-led-using-mobile"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=ADC ON RASPBERRY PI PICO CIRCUIT DIGEST&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
+<a href="https://circuitdigest.com/microcontroller-projects/how-to-use-bluetooth-on-raspberry-pi-pico-and-control-led-using-mobile"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=BLUETOOTH ON RASPBERRY PI PICO CIRCUIT DIGEST&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
 <br>
 
 [<h1>Click here](https://circuitdigest.com/microcontroller-projects/how-to-use-bluetooth-on-raspberry-pi-pico-and-control-led-using-mobile) for complete tutorial.</h1>
