@@ -26,4 +26,12 @@ Hello everyone, this repository contains the complete tutorial series on the Ras
    <br>
    ✅Tutorial 2:[Interfacing an OLED display with the Raspberry Pi Pico Using Micropython](https://github.com/Circuit-Digest/Raspberry_Pi_Pico_Tutorial/tree/main/T2_Interfacing_An_OLED)
    <br>
+   ✅Tutorial 3:[Interfacing Ultrasonic Sensor with Raspberry Pi Pico and Displaying the distance on OLED display Using MicroPython](https://circuitdigest.com/microcontroller-projects/interfacing-ultrasonic-sensor-with-raspberry-pi-pico)
+   <br>
+   ✅Tutorial 4:[ADC on Raspberry Pi Pico using MicroPython - Reading ADC Value and Displaying on OLED Display Module](https://circuitdigest.com/microcontroller-projects/adc-on-raspberry-pi-pico-using-micropython)
+   <br>
+   ✅Tutorial 5:[Interfacing LCD Display with Raspberry Pi Pico using Micropython](https://circuitdigest.com/microcontroller-projects/interfacing-raspberry-pi-pico-with-16x2-lcd-using-micropython)
+   <br>
+   ✅Tutorial 6:[Control a Servo Motor with Raspberry Pi Pico Using PWM in MicroPython](https://circuitdigest.com/microcontroller-projects/control-a-servo-motor-with-raspberry-pi-pico-using-pwm-in-micropython)
+   <br>
 
