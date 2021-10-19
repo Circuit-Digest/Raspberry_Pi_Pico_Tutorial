@@ -2,8 +2,8 @@ from machine import Pin
 import utime
 import _thread
 
-led1 = machine.Pin(16, machine.Pin.OUT)
-led2 = machine.Pin(15, machine.Pin.OUT)
+led1 = Pin(16, machine.Pin.OUT)
+led2 = Pin(15, machine.Pin.OUT)
 
 
 sLock = _thread.allocate_lock()
